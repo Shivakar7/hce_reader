@@ -75,7 +75,7 @@ Key components:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/hce_reader.git
+git clone https://github.com/Shivakar7/hce_reader.git
 ```
 
 2. Open in Android Studio
@@ -122,8 +122,7 @@ Received: 9000
 
 Card implementation:
 
-👉 https://github.com/
-<your-username>/hce_card
+👉 https://github.com/Shivakar7/hce_card
 
 ## Blog
 
