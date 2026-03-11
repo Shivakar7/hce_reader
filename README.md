@@ -7,7 +7,7 @@ The reader sends APDU commands to an HCE-enabled phone and receives responses fr
 
 This project is designed to work with:
 
-👉 https://github.com/<your-username>/hce_card
+👉 https://github.com/Shivakar7/hce_card
 
 ---
 
@@ -124,3 +124,7 @@ Card implementation:
 
 👉 https://github.com/
 <your-username>/hce_card
+
+## Blog
+
+For a detailed explanation of Host Card Emulation and the implementation behind this project, check out my blog: https://medium.com/@vshivakar7/host-card-emulation-33ae27cd4b0a
